@@ -12,3 +12,5 @@ permalink: /math/
   </h4>
   <p>{{ project.description }}</p>
 {% endfor %}
+
+A [note]({{ site.url }}/pd.pdf) on Poincare Duality
