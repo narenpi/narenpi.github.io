@@ -6,7 +6,7 @@ title: "Conditional Convergence of Spectral sequences"
 
 
 testing latex $a^b$
-https://www.fabriziomusacchio.com/blog/2021-08-10-How_to_use_LaTeX_in_Markdown/
+
 
  <script type="text/javascript"
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
