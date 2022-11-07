@@ -24,6 +24,6 @@ A [note]({{ site.url }}/pd.pdf) on Poincare Duality
 <h4>
 Serre Spectral Sequences
 </h4>
-A short note elaborating on some examples from Hatcher's note on Serre spectral sequences. I have detailed on 4 examples that help explain the basics of Serre specseq. They touch on the basic convergence and naturality properties.\\
+A short note elaborating some examples from Hatcher's note on Serre spectral sequences. I have written few examples that help explain the basics of Serre specseq. They touch on the basic convergence and naturality properties.\\
 [Serre spec seq]({{ site.url }}/serrespecseq.pdf)
 <!-- there was <h4>....</h4> and project url was inside it indented and <p>...</p> contained project description-->
