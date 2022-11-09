@@ -17,7 +17,7 @@ permalink: /math/
 <h4>
 Poincare Duality for Manifolds
 </h4>
-A [note]({{ site.url }}/pd.pdf) on Poincare Duality
+A [note]({{ site.url }}/pd.pdf){:target="_blank"} on Poincare Duality
 
 <hr>
 
@@ -25,5 +25,5 @@ A [note]({{ site.url }}/pd.pdf) on Poincare Duality
 Serre Spectral Sequences
 </h4>
 A short note elaborating some examples from Hatcher's note on Serre spectral sequences. I have written few examples that help explain the basics of Serre specseq. They touch on the basic convergence and naturality properties.\\
-[Serre spec seq]({{ site.url }}/serrespecseq.pdf)
+[Serre spec seq]({{ site.url }}/serrespecseq.pdf){:target="_blank"}
 <!-- there was <h4>....</h4> and project url was inside it indented and <p>...</p> contained project description-->

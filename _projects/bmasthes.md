@@ -18,7 +18,7 @@ Voedovsky was awarded the Fields Medal in 2002 for proving the theorem for all $
 
 I discussed quadratic forms and worked on the base cases of the Milnor's conjecture as part of my Master's thesis.
 
-The report is available [here]({{ site.url }}/masthes.pdf).
+The report is available [here]({{ site.url }}/masthes.pdf){:target="_blank"}.
 
 
  <script type="text/javascript"

@@ -8,4 +8,4 @@ vast changes in future. The "butterfly-effect": the notion that the flap of a bu
 
 As part of a project for my Introduction to Sage Math class, we used SageMath and employed a visual and programming heavy treatment to study chaotic systems. 
 
-The report can be accessed [here]({{ site.url}}/aic.pdf).
+The report can be accessed [here]({{ site.url}}/aic.pdf){:target="_blank"}.
