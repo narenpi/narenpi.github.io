@@ -1,6 +1,6 @@
 ---
 title: Master's thesis
-description:  Proof of Milnor's conjecture for base cases.
+description:  Quadratic forms and proof of Milnor's conjecture for base cases.
 layout: project_page
 ---
 
