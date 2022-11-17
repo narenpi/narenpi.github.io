@@ -16,7 +16,7 @@ permalink: /math/
 
 
 <h4>Model Categories</h4>
-I am studying about model categories from Quillen's _Homotopical algebra_ . I am recording down the main ideas in this [note]({{site.url}}/modelcat.pdf){:target="_blank"} for my reference.
+Reading model categories from Quillen's _Homotopical algebra_ . I am recording down the main ideas in this [note]({{site.url}}/modelcat.pdf){:target="_blank"} for my reference.
 <hr>
 
 <h4>
