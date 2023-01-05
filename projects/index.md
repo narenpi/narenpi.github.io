@@ -3,6 +3,15 @@ layout: page
 title: Math 
 permalink: /math/
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1GW8E1BG3R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1GW8E1BG3R');
+</script>
 
 {% for project in site.projects %}
   <h4>
