@@ -4,4 +4,4 @@
 
 layout: page
 ---
-Hello there! I am Narendran. I recently graduated from Indian Statistical Institute, Kolkata, with a Master's degree in Mathematics. Currently I'm interested in reading about stable homotopy theory, category theory, K-theory. I'm on the market for Ph.D programs in Mathematics. 
+Hello there! I am Narendran. I would be starting PhD at University of Kentucky at Fall '23. Previously I was at Indian Statistical Institute, for my Bachelor's and Master's degree in Mathematics. Currently I'm interested in reading about stable homotopy theory, category theory, K-theory. 

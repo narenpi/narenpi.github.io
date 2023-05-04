@@ -63,6 +63,9 @@ kramdown:
   syntax_highlighter: rouge
 
 collections:
+  projects1:
+    output: true
+    permalink: /:collection/:title
   projects:
     output: true
     permalink: /:collection/:title
