@@ -4,4 +4,4 @@
 
 layout: page
 ---
-Hello there! I am Narendran. I would be starting PhD at University of Kentucky at Fall '23. Previously I was at Indian Statistical Institute, for my Bachelor's and Master's degree in Mathematics. Currently I'm interested in reading about stable homotopy theory, category theory, K-theory. 
+Hello there! I am Narendran. I would be starting PhD at the University of Kentucky in Fall '23. Previously I was at Indian Statistical Institute, for my Bachelor's and Master's degree in Mathematics. I'm interested ineading about stable homotopy theory, category theory, K-theory. 
