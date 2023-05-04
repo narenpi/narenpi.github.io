@@ -10,7 +10,7 @@ permalink: /math/
       {{ project.title }}
     </a>
   </h4> 
-  <p>{{ project.description }}</p>
+   {{ project.description }}
   
 {% endfor %}
 
