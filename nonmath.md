@@ -64,4 +64,5 @@ Here is a picture of me from my trek to Sandakphu-Phalut. I will upload more pic
 
 
 
-[Trek]({{ site.url }}/projects1/trek){:target="_blank"} 
+<!-- [Trek]({{ site.url }}/projects1/trek){:target="_blank"} 
+ -->
