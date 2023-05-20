@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math 
+title: math
 permalink: /math/
 ---
 
@@ -10,23 +10,17 @@ permalink: /math/
       {{ project.title }}
     </a>
    {{ project.description }}
-  
 {% endfor %} -->
 <!-- 
 [Introductory notes on stable homotopy and Adams spectral sequence]({{ site.url }}/projects/asht){:target="_blank"}
-
 [Master's thesis]({{ site.url }}/projects/bmasthes){:target="_blank"}
-
 <!-- <h4>Model Categories</h4> -->
 <!-- Reading model categories from Quillen's _Homotopical algebra_ . I am recording down the main ideas in this [note]({{site.url}}/modelcat.pdf){:target="_blank"} for my reference. -->
-
-
 <!-- <h4>
 Serre Spectral Sequences
 </h4> -->
 <!-- A short note elaborating some examples from Hatcher's note on Serre spectral sequences. I have written few examples that help explain the basics of Serre specseq. They touch on the basic convergence and naturality properties.
 [Serre spec seq]({{ site.url }}/serrespecseq.pdf){:target="_blank"} -->
-
 <!-- <h4>
 Poincare Duality for Manifolds
 </h4> -->
