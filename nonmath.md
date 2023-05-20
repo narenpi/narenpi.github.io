@@ -55,12 +55,13 @@ I don't have much going on that's not math. Hopefully I find something interesti
 {% endfor %} -->
 
 Here is a picture of me from my trek to Sandakphu-Phalut. I will upload more pictures soon. I got to see the peaks Kanchenjunga, Everest, Ama Dablam, Lhotse from Aal. 
-    <figure>
-      <img src="img1.jpg"  >
-      <figcaption>This is me</figcaption>
-    </figure>
-    <figure>
-      <img src="img2.jpg">
+  <figure>
+    <img src="img1.jpg"  >
+     <figcaption>This is me</figcaption>
+  </figure>
+    
+  <figure>
+    <img src="img2.jpg">
      <figcaption>Horse on Hill</figcaption>
     </figure>
 
