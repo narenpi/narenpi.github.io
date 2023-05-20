@@ -63,7 +63,7 @@ Here is a picture of me from my trek to Sandakphu-Phalut. I will upload more pic
   <figure>
     <img src="img2.jpg">
      <figcaption>Horse on Hill</figcaption>
-    </figure>
+  </figure>
 
 
 
