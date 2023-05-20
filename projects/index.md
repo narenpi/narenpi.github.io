@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projects
 title: math
 permalink: /math/
 ---
@@ -29,19 +29,19 @@ Poincare Duality for Manifolds
 <table style="font-size: 1em; color: gray;" >
 <tbody>
   <tr>
-    <td> <a href="{{ site.url }}/projects/asht" target="_blank">Introductory notes on stable homotopy and Adams spectral sequence</a> </td>
+    <td> <a href="{{ site.url }}/projects/asht" >Introductory notes on stable homotopy and Adams spectral sequence</a> </td>
   </tr>
   <tr>
-    <td><a href="{{ site.url }}/projects/bmasthes" target="blank"> Master's thesis on base case of Milnor's conjecture</a>  </td>
+    <td><a href="{{ site.url }}/projects/bmasthes" > Master's thesis on base case of Milnor's conjecture</a>  </td>
   </tr>
   <tr>
-    <td>Some theorems from Quillen's <em>Homotopical algebra</em> for my reference-<a href="({{site.url}}/modelcat.pdf)" target="_blank">Note</a></td>
+    <td>Some theorems from Quillen's <em>Homotopical algebra</em> for my reference-<a href="({{site.url}}/modelcat.pdf)" >Note</a></td>
   </tr>
   <tr>
-    <td>A short note on examples on Serre's spectral sequences-<a href="{{site.url}})/serrespecseq.pdf" target="_blank">Note</a></td>
+    <td>A short note on examples on Serre's spectral sequences-<a href="{{site.url}})/serrespecseq.pdf" >Note</a></td>
   </tr>
   <tr>
-    <td>A <a href="{{ site.url }}/pd.pdf" target="_blank">note</a> on Poincare Duality</td>
+    <td>A <a href="{{ site.url }}/pd.pdf" >note</a> on Poincare Duality</td>
   </tr>
 </tbody>
 </table>
