@@ -9,3 +9,16 @@ vast changes in future. The "butterfly-effect": the notion that the flap of a bu
 As part of a project for my Introduction to Sage Math class, we used SageMath and employed a visual and programming heavy treatment to study chaotic systems. 
 
 The report can be accessed [here]({{ site.url}}/aic.pdf){:target="_blank"}.
+
+Some of my favorite images from the work:
+<figure>
+<img src="../lorentz.png" alt="Lorentz" title="lorentz">
+    <figcaption>Lorentz</figcaption>
+</figure>
+
+<figure>
+<img src="../bifurcation_plot.png" >
+    <figcaption>Bifurcation Plot</figcaption>
+</figure>
+
+Please email me if you would like to take a peek at the code. I would put it up on github soon.

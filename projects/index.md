@@ -35,6 +35,9 @@ Poincare Duality for Manifolds
     <td><a href="{{ site.url }}/projects/bmasthes" > Master's thesis on base case of Milnor's conjecture</a>  </td>
   </tr>
   <tr>
+    <td><a href="{{site.url}}/projects/caic"> Attractors in Chaos</a></td>
+  </tr>
+  <tr>
     <td>Some theorems from Quillen's <em>Homotopical algebra</em> for my reference-<a href="{{site.url}}/modelcat.pdf" >Note</a></td>
   </tr>
   <tr>
@@ -51,3 +54,7 @@ Poincare Duality for Manifolds
 
 
 <h4><a href="https://www.theproofistrivial.com/" >Stuck on a proof?</a> </h4>
+
+<!-- <a href="https://www.theproofistrivial.com">
+  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+</a> -->
