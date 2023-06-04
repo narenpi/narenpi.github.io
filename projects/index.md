@@ -26,11 +26,11 @@ Poincare Duality for Manifolds
 </h4> -->
 <!-- A [note]({{ site.url }}/pd.pdf){:target="_blank"} on Poincare Duality --> 
 
-<table style="font-size: 1em; color: gray;" >
+<!-- <table style="font-size: 1em; color: gray;" >
 <tbody>
-  <!-- <tr>
+  <tr>
     <td> <a href="{{ site.url }}/projects/asht" >Introductory notes on stable homotopy and Adams spectral sequence</a> </td>
-  </tr> -->
+  </tr>
   <tr>
     <td><a href="{{ site.url }}/projects/bmasthes" > Master's thesis on base case of Milnor's conjecture</a>  </td>
   </tr>
@@ -43,19 +43,26 @@ Poincare Duality for Manifolds
   <tr>
     <td>A short note on examples on Serre's spectral sequences-<a href="{{site.url}}/serrespecseq.pdf" >Note</a></td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td>A <a href="{{ site.url }}/pd.pdf" >note</a> on Poincare Duality</td>
-  </tr> -->
+  </tr>
 </tbody>
 </table>
+<br> -->
+
+
+<a href="{{ site.url }}/projects/bmasthes" > Master's Thesis on base case of Milnor's conjecture</a>  
+  
+<a href="{{site.url}}/projects/caic"> Attractors in Chaos</a>
+
+List of theorems from Quillen's <em>Homotopical algebra</em>-<a href="{{site.url}}/modelcat.pdf" >Note</a>
+
+A short note on examples on Serre's spectral sequences-<a href="{{site.url}}/serrespecseq.pdf" >Note</a>
+
 <br>
 
+<!-- <table style="font-size: 0.8em; color: gray;"><tr><td ><img src="http://math.jhu.edu/~savitt/GTM/maclane.jpg" width=500 height=140 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Saunders Mac Lane's <b><i>Categories for the Working Mathematician</i></b>.</p><p>I provide an array of general ideas useful in a wide variety of fields.  Starting from foundations, I illuminate the concepts of category, functor, natural transformation, and duality.  I then turn to adjoint functors, which provide a description of universal constructions, an analysis of the representation of functors by sets of morphisms, and a means of manipulating direct and inverse limits. </p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table> -->
 
-<table style="font-size: 0.8em; color: gray;"><tr><td ><img src="http://math.jhu.edu/~savitt/GTM/maclane.jpg" width=500 height=140 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Saunders Mac Lane's <b><i>Categories for the Working Mathematician</i></b>.</p><p>I provide an array of general ideas useful in a wide variety of fields.  Starting from foundations, I illuminate the concepts of category, functor, natural transformation, and duality.  I then turn to adjoint functors, which provide a description of universal constructions, an analysis of the representation of functors by sets of morphisms, and a means of manipulating direct and inverse limits. </p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>
 
+ <h4><a href="https://www.theproofistrivial.com/" >Stuck on a proof?</a> </h4>
 
-<h4><a href="https://www.theproofistrivial.com/" >Stuck on a proof?</a> </h4>
-
-<!-- <a href="https://www.theproofistrivial.com">
-  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
-</a> -->
