@@ -37,9 +37,9 @@ Poincare Duality for Manifolds
   <tr>
     <td><a href="{{site.url}}/projects/caic"> Attractors in Chaos</a></td>
   </tr>
-  <!-- <tr>
-    <td>Some theorems from Quillen's <em>Homotopical algebra</em> for my reference-<a href="{{site.url}}/modelcat.pdf" >Note</a></td>
-  </tr> -->
+  <tr>
+    <td>List of theorems from Quillen's <em>Homotopical algebra</em>-<a href="{{site.url}}/modelcat.pdf" >Note</a></td>
+  </tr>
   <tr>
     <td>A short note on examples on Serre's spectral sequences-<a href="{{site.url}}/serrespecseq.pdf" >Note</a></td>
   </tr>
