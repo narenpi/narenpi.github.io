@@ -121,11 +121,11 @@ div.container {
 			<p>Horse</p>
 	  </div>
     <div class="content">
-			<img src="../img3.jpg" alt="">
+			<img src="../img3.JPG" alt="">
 			<p>Horse</p>
 	  </div>
     <div class="content">
-			<img src="../img4.jpg" alt="">
+			<img src="../img4.JPG" alt="">
 			<p>Yak</p>
 	  </div>
     <div class="content">
