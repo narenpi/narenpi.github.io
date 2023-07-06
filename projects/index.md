@@ -71,3 +71,5 @@ A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/se
 
  <h4><a href="https://www.theproofistrivial.com/" >Stuck on a proof?</a> </h4>
 
+ <!-- <a href ="{{site.url}}/projects/KTCC">KTCC</a> -->
+

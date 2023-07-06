@@ -142,7 +142,7 @@ div.container {
 	  </div>
     <div class="content">
 			<img src="../img8.jpg" alt="">
-			<p>Power of high power camera</p>
+			<p></p>
 	  </div>
     <div class="content">
 			<img src="../img9.jpg" alt="">
