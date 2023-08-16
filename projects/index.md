@@ -51,11 +51,11 @@ Poincare Duality for Manifolds
 <br> -->
 
 <p><b> Writing </b></p>
-<a href="{{ site.url }}/projects/bmasthes" > Master's Thesis on base case of Milnor's conjecture</a>  
+<a href="{{ site.url }}/projects/bmasthes" > Master's thesis on Milnor's conjecture($n$=0,1)</a>  
   
 <a href="{{site.url}}/projects/caic"> Attractors in Chaos</a>
 
-List of theorems from Quillen's <em>Homotopical algebra</em> [<a href="{{site.url}}/modelcat.pdf" >Note</a>]
+<!-- List of theorems from Quillen's <em>Homotopical algebra</em> [<a href="{{site.url}}/modelcat.pdf" >Note</a>] -->
 
 A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/serrespecseq.pdf" >Note</a>]
 
@@ -73,3 +73,23 @@ A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/se
 
  <!-- <a href ="{{site.url}}/projects/KTCC">KTCC</a> -->
 
+
+
+ <script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+      extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+      TeX: {
+      extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js", "AMScd.js"],
+      equationNumbers: {
+      autoNumber: "AMS"
+      }
+    }
+  });
+</script>
