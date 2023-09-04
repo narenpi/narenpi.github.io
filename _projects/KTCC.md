@@ -6,9 +6,11 @@ layout: projects
 <h4>Reading K-Theory and Characteristic Classes</h4>
 
 
-<details><summary>July 10</summary> Classifying vector bundles over $S^k$.</details>
+<details><summary>August 29 </summary> Vector bundles, operations on vector bundles, quotient bundles, collapsing , clutching construction, metrics on bundles, ample subspaces.  <br/>
 
-<details><summary>July 5</summary> Pullback bundles, Clutching functions </details>
+Q: Why is rank $\phi_x$ an upper semi-continuous function? </details>
+
+<details><summary> September 5 </summary>  </details>
 
 
    
