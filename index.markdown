@@ -4,4 +4,4 @@
 
 layout: page
 ---
-Hello there! I am Narendran. I am a first year PhD student at the University of Kentucky. Previously I was at Indian Statistical Institute, for my Bachelor's and Master's degree in Mathematics. I'm interested in homotopy theory, category theory, K-theory. 
+Hello there! I am Narendran. I am a first year PhD student at the University of Kentucky. Previously I was at Indian Statistical Institute, for my Bachelor's and Master's degree in Mathematics. 

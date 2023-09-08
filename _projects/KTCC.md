@@ -5,12 +5,13 @@ layout: projects
 ---
 <h4>Reading K-Theory and Characteristic Classes</h4>
 
+**Resources**
+<ol><li>Atiyah $K$-Theory</li></ol>
 
-<details><summary>August 29 </summary> Vector bundles, operations on vector bundles, quotient bundles, collapsing , clutching construction, metrics on bundles, ample subspaces.  <br/>
+<details><summary>August 29 </summary> Vector bundles, operations on vector bundles, quotient bundles, collapsing , clutching construction, metrics on bundles, ample subspaces.</details>  
 
-Q: Why is rank $\phi_x$ an upper semi-continuous function? </details>
-
-<details><summary> September 5 </summary>  </details>
+<details><summary> September 5 </summary>  
+Extra structure on bundles, $G$- bundles. $K(X)$, Statement of Periodicity theorem. </details>
 
 
    

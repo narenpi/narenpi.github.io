@@ -50,6 +50,11 @@ Poincare Duality for Manifolds
 </table>
 <br> -->
 
+<p><b>Notes</b></p>
+<a href="{{site.url}}/765notes.pdf"> Notes on algebra, Taught by Dr. Uwe Nagel</a>
+
+<br>
+
 <p><b> Writing </b></p>
 <a href="{{ site.url }}/projects/bmasthes" > Master's thesis on Milnor's conjecture($n$=0,1)</a>  
   
@@ -60,6 +65,7 @@ Poincare Duality for Manifolds
 A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/serrespecseq.pdf" >Note</a>]
 
 <br>
+
 <p><b> Talks </b></p>
 <ol reversed>
 <li><i> <a href="{{site.url}}/talk2.pdf">Introduction to Spectral Sequences</a></i>, Indian Institute of Technology, Madras, May '23  </li>
