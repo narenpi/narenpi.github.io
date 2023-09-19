@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img style="float: right; padding: 10px" width="300" src="../myself.jpg">
+<img style="float: right; padding: 10px" width="300" src="../myself.JPG">
 <p>Hello there! I am Narendran. I am a first year PhD student at the University of Kentucky. Previously I was at Indian Statistical Institute, for my Bachelor's and Master's degree in Mathematics. </p>
 
 
