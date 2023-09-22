@@ -13,8 +13,9 @@ layout: projects
 <details><summary> September 5 </summary>  
 Extra structure on bundles, $G$- bundles. $K(X)$, Statement of Periodicity theorem. </details>
 
+<details><summary>September 12</summary> Cohomology theory properties of $K$ </details>
 
-   
+<details><summary>September 20</summary> Proof of Periodicity theory</details>
     
  <script type="text/javascript"
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
