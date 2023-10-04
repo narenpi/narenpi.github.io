@@ -9,7 +9,6 @@ I don't have much going on that's not math. Hopefully I find something interesti
 "We are plain quiet folk and have no use for adventures. Nasty disturbing uncomfortable things! Make you late for dinner! I can't think what anybody sees in them."
 
 
-
 <!-- {% for project in site.projects1 %}
   <h4>
     <a href="{{ project.url }}">
@@ -20,10 +19,7 @@ I don't have much going on that's not math. Hopefully I find something interesti
   <hr>
 {% endfor %} -->
 
-
-
 <h4><a href="{{ site.url }}/projects1/trek" >Sandakphu Phalut</a> </h4>
 <!-- [Trek]({{ site.url }}/projects1/trek){:target="_blank"}  -->
-<br>
 
-Some random quotes from our discord, updated weekly <a href="{{ site.url }}/projects1/quotes" >Quotes</a>
+Some random <a href="{{ site.url }}/projects1/quotes" >quotes</a>
