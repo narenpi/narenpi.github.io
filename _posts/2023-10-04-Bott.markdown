@@ -4,3 +4,72 @@ title:  Bott Periodicity
 date:   2023-10-04
 categories: jekyll update
 ---
+
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+      extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+      TeX: {
+      extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js", "AMScd.js"],
+      equationNumbers: {
+      autoNumber: "AMS"
+      }
+    }
+  });
+</script>
+
+$E$ vector bundle over the space $X$, and if $E_0=E-X$, $X$ is considered to lie in $E$ as the zero section. The group $\mathbb{C}^*$ acts on $E_0$ as the group of fiber preserving automorphisms. Let $P(E)=E_0/\sim$, this is projective bundle associated to $E$. 
+
+Let $p:P(E)\to X$ be the projection map. So $p^{-1}(x)$ is a $\C$-vector space for each $x$. If $V$ is a vector space and $W$ is a one dimensional vector space, then $V \cong V\otimes W$ $v\mapsto v\otimes w$, but not naturally. This defines an isomorphism, $P(w):P(V)\to P(V\otimes W)$. For any other nonzero element $w'\in W$, we have $w'=\lambda w$. So $P(w)=P(w')$ and the isomorphism between $P(V)\cong P(V\otimes W)$ is natural. Thus for $E$ vector bundle and $L$ line bundle, we have 
+$$P(E)\cong P(E\otimes L)$$
+
+If $E$ is a vector bundle over $X$, then each point $a\in P(E)_x=P(E_x)$ represents a one dimensional subspace $H^*_x\subset E_x$. Then 
+$$H^*=\bigcup_{x\in X}H^*_x\subset p^*E$$ is a subbundle, where $p:P(E)\to X$ is the projection map. Since the problem is local we may assume $E\cong X\times V$ and we have $p(E)_x=\{x\}\times Gr_1{V}$.
+
+<blockquote>
+<strong>Periodicity theorem</strong>:
+    Let $L$ be a line bundle over $X$. Then as a $K(X)$ algebra, $$K(P(L\oplus 1))=\frac{K(X) [H]}{([H]-[1])([L][H]-[1])}$$
+</blockquote>
+Note that $P(1\oplus 1)=X\times S^2$.
+<blockquote>
+    $$K(S^2)=\frac{K(\mathrm{pt.})[H]}{([H]-1)^2}=\frac{\mathbb{Z}[H]}{([H]-1)^2}$$
+</blockquote>
+
+\begin{corollary}
+    %\marginnote{isomophism?}
+    If $X$ is any space and if 
+    \begin{alignat*}{4}
+        \mu: & K(X)\otimes K(S^2)&\xlongrightarrow{\simeq}& K(X\times S^2)\\
+            & a\otimes &\mapsto &\pi_1^*(a)\otimes \pi_2^*(b)
+    \end{alignat*}
+    where $\pi_i$ are the projections onto the two factors, is an isomorphism of rings.
+\end{corollary}
+
+For any $x\in X$ there is a natural embedding
+\begin{alignat*}{2}
+    L_x\to&P(L\oplus 1)_x\\
+    y\mapsto&(y,1)
+\end{alignat*}
+This map extends to the one point compactification of $L_x$ onto $P(L\oplus 1)_x$
+\begin{alignat*}{2}
+    L^+_x\xrightarrow{\cong} &P(L\oplus 1)_x\\
+    \{\infty\}\mapsto& (1,0)
+\end{alignat*}
+If we map 
+\begin{alignat*}{3}
+    s_{\infty}:&X\to &P(L\oplus 1)\\
+    &x\mapsto & (1,0)    
+\end{alignat*} we obtain a section of $P(L\oplus 1)$, called the section of infinity. 
+
+Choose a metric for $L$. Let $S\subset L$ be the $S^1$ bundle. $P^0=\{v\mid \vert v\vert \leq 1, v\in L\}$ and $P^{\infty}=s_{\infty}(X)\bigcup \{v\mid \vert v\vert >1, v\in L\}$ %\marginnote{This is by viewing $L$ as $L_x\subset P(L\oplus 1)_x$}
+We denote the projections as 
+\[\begin{tikzcd}
+    S \arrow[d, "\pi"] & P^0 \arrow[d, "\pi_0"] & P^{\infty} \arrow[d, "\pi_{\infty}"] \\
+    X                  & X                      & X                                   
+    \end{tikzcd}\]

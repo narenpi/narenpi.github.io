@@ -54,7 +54,9 @@ Poincare Duality for Manifolds
 <a href="{{site.url}}/765notes.pdf"> Notes on algebra, Taught by Dr. Uwe Nagel</a>
 
 <br>
+<a href="{{ site.url}}/projects/KTCC"> K-Theory Reading</a>
 
+<br>
 <p><b> Writing </b></p>
 <a href="{{ site.url }}/projects/bmasthes" > Master's thesis on Milnor's conjecture($n$=0,1)</a>  
   
