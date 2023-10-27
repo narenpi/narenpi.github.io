@@ -14,7 +14,8 @@ layout: projects
 <details><summary>Sep 12</summary> Cohomology theory properties of $K$ </details>
 border="1"style
 style ="font-size: 1em; color: gray;" -->
-<table  >
+<table>
+
 <tr>
 <td><b>week</b></td>
 <td><b>topics</b></td>
@@ -65,7 +66,12 @@ style ="font-size: 1em; color: gray;" -->
 <td>Oct 17</td>
 <td> Products and Multiplication </td>
 <td></td>
+</tr>
 <tr>
+<td> Oct 25</td>
+<td>Category $\mathcal{L}(X,A)$</td>
+<td><a href="{{site.url}}/s6.pdf">note</a></td>
+</tr>
 </table>
 
 
