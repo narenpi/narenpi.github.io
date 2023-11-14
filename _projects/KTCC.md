@@ -72,6 +72,18 @@ style ="font-size: 1em; color: gray;" -->
 <td>Category $\mathcal{L}(X,A)$</td>
 <td><a href="{{site.url}}/s6.pdf">note</a></td>
 </tr>
+<tr>
+<td> Nov 1</td>
+<td>Euler characteristic</td>
+</tr>
+<tr>
+<td>Nov 8</td>
+<td>Thom Isomorphism</td>
+</tr>
+<tr>
+<td>Nov 14</td>
+<td>Thom Isomorhpism></td>
+</tr>
 </table>
 
 
