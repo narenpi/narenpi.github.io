@@ -5,16 +5,14 @@ layout: projects
 ---
 <h4>Reading K-Theory and Characteristic Classes</h4>
 
-**Resources**
-<ol><li>Atiyah's $K$-Theory</li>
-<li><a href="https://www.ms.uky.edu/~guillou/F18/751Notes.pdf">Notes</a> from this course run by Bert Guillou</li>
-<li><a href="https://ncatlab.org/nlab/files/wirthmueller-vector-bundles-and-k-theory.pdf"> Notes</a> by Klaus Wirthmuller</li> </ol>
+
+
 
 <!-- 
 <details><summary>Sep 12</summary> Cohomology theory properties of $K$ </details>
 border="1"style
 style ="font-size: 1em; color: gray;" -->
-<table>
+<!-- <table>
 
 <tr>
 <td><b>week</b></td>
@@ -84,9 +82,27 @@ style ="font-size: 1em; color: gray;" -->
 <td>Nov 14</td>
 <td>Thom Isomorhpism></td>
 </tr>
-</table>
+</table> -->
 
-
+<ul>
+<li>Aug 29,smooth manifolds; vector bundles and operations thereamongVector bundles, operations on vector bundles, quotient bundles, collapsing , clutching construction, metrics on bundles, ample subspaces.</li>
+<li>Sep 5,Extra structure on bundles, $G$- bundles. $K(X)$, Statement of Periodicity theorem.</li>
+<li>Sep 12, Cohomology theory properties of $K$</li>
+<li>Sep 20, Proof of Periodicity theorem</li>
+<li>Sep 26,Proof of periodicity theorem, equivariant $K$-theory</li>
+<li>Oct 4,Cohomology theory properties</li>
+<li>Oct 10, $K$- theory of $\mathbb{CP}^n$</li>
+<li>Oct 17,Products and Multiplication</li>
+<li>Oct 25, Category $\mathcal{L}(X,A)$</li>
+<li>Nov 1, Euler characteristic</li>
+<li>Nov 8, Thom isomorphism </li>
+<li>Nov 14, Thom isomorphism </li>
+</ul>
+**Resources**
+<ol><li>Atiyah's $K$-Theory</li>
+<li><a href="https://www.ms.uky.edu/~guillou/F18/751Notes.pdf">Notes</a> from this course run by Bert Guillou</li>
+<li><a href="https://ncatlab.org/nlab/files/wirthmueller-vector-bundles-and-k-theory.pdf"> Notes</a> by Klaus Wirthmuller</li> 
+<li> <a href="{{site.url}}/ktreading.pdf">Notes</a> that I jot down to remember stuff. </li></ol>
 
 
 
