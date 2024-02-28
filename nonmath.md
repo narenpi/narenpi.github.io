@@ -22,4 +22,4 @@ I don't have much going on that's not math. Hopefully I find something interesti
 <h4><a href="{{ site.url }}/projects1/trek" >Sandakphu Phalut</a> </h4>
 <!-- [Trek]({{ site.url }}/projects1/trek){:target="_blank"}  -->
 
-Some random <a href="{{ site.url }}/projects1/quotes" >quotes</a>
+<a href="{{ site.url }}/projects1/copypasta" >copypasta</a>
