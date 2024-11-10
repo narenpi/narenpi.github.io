@@ -14,4 +14,19 @@ Pirates are Evil? Marines are righteous? These terms have always changed through
 
 What's a big prime? 51?
 
-all this shit I'm receiving for being a swiftie.You all will be at my feet when taylor swift takes over the world.
+all this shit I'm receiving for being a swiftie.You all will be at my feet when taylor swift takes over the world. 
+
+It's not a bug. It's proof that you are functioning normally. That's why there's no need to run away or be afraid. 
+A pregnant woman gives birth to her kid by suffering through what feels like squeezing a watermelon through her nostrils.
+Artists endure suffering that feels like pulling the entire universe out of their ass to create their works.
+Everyone has times when they've come up against a wall and feel like giving up on everything and running away.
+But you mustn't forget that during these times when the going is rough, the soul inside of you will try to create something to break through that wall.
+And don't forget that in your suffering there is something very precious.
+We're all suffering in agony with our own troublesome lives.
+Sometimes it comes to tears…When that happens, let it flow as much as it wants…If it still doesn't stop flowing, then we'll come and mop it up.
+~Sakata Gintoki
+
+i'm a force of nature, like a river that shapes the lay of the land, i weave through the landscape shaping it as i fancy. slowly but surely, every obstacle erodes away. time itself is my ally, i'm an image of entropy. i'm a bottomless well of unstoppable unending tireless will.
+
+
+If you think clock should have ten hours u have a heart. If u think it should have 12. U have a brain ~lufarp 

@@ -50,13 +50,24 @@ Poincare Duality for Manifolds
 </table>
 <br> -->
 
-<p><b>Notes</b></p>
-<a href="{{site.url}}/765notes.pdf"> Notes on algebra, Taught by Dr. Uwe Nagel</a>
+<!-- <p><b>Notes</b></p> -->
+<!-- <a href="{{site.url}}/765notes.pdf"> Notes on algebra, Taught by Dr. Uwe Nagel</a> -->
 
 <!-- <br>
 <a href="{{ site.url}}/projects/KTCC"> K-Theory Reading</a> -->
-
+<details >
+<summary>Writing</summary>
 <br>
+<a href="{{site.url}}/765notes.pdf"> Notes on algebra, Taught by Dr. Uwe Nagel</a>
+<br>
+<a href="{{ site.url }}/projects/bmasthes" > Master's thesis on Milnor's conjecture($n$=0,1)</a>  
+  <br>
+<a href="{{site.url}}/projects/caic"> Attractors in Chaos</a>
+<br>
+A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/serrespecseq.pdf" >Note</a>]
+</details>
+
+<!-- <br>
 <p><b> Writing </b></p>
 <a href="{{ site.url }}/projects/bmasthes" > Master's thesis on Milnor's conjecture($n$=0,1)</a>  
   
@@ -64,7 +75,7 @@ Poincare Duality for Manifolds
 
 <!-- List of theorems from Quillen's <em>Homotopical algebra</em> [<a href="{{site.url}}/modelcat.pdf" >Note</a>] -->
 
-A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/serrespecseq.pdf" >Note</a>]
+<!-- A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/serrespecseq.pdf" >Note</a>] --> 
 
 <br>
 
@@ -77,7 +88,7 @@ A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/se
 <!-- <table style="font-size: 0.8em; color: gray;"><tr><td ><img src="http://math.jhu.edu/~savitt/GTM/maclane.jpg" width=500 height=140 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Saunders Mac Lane's <b><i>Categories for the Working Mathematician</i></b>.</p><p>I provide an array of general ideas useful in a wide variety of fields.  Starting from foundations, I illuminate the concepts of category, functor, natural transformation, and duality.  I then turn to adjoint functors, which provide a description of universal constructions, an analysis of the representation of functors by sets of morphisms, and a means of manipulating direct and inverse limits. </p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table> -->
 
 
- <h4><a href="https://www.theproofistrivial.com/" >Stuck on a proof?</a> </h4>
+ <!-- <h4><a href="https://www.theproofistrivial.com/" >Stuck on a proof?</a> </h4> -->
 
  <!-- <a href ="{{site.url}}/projects/KTCC">KTCC</a> -->
 

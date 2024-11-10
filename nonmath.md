@@ -3,8 +3,10 @@ layout: projects
 title: not-math
 
 ---
+Outside math, I am mostly into lifting weights, sports, biking and chess. 
 
-I don't have much going on that's not math. Hopefully I find something interesting to fill this page.
+
+<!-- I don't have much going on that's not math. Hopefully I find something interesting to fill this page. -->
 
 "We are plain quiet folk and have no use for adventures. Nasty disturbing uncomfortable things! Make you late for dinner! I can't think what anybody sees in them."
 
@@ -19,7 +21,7 @@ I don't have much going on that's not math. Hopefully I find something interesti
   <hr>
 {% endfor %} -->
 
-<h4><a href="{{ site.url }}/projects1/trek" >Sandakphu Phalut</a> </h4>
+<h><a href="{{ site.url }}/projects1/trek" >Sandakphu Phalut</a> </h>
 <!-- [Trek]({{ site.url }}/projects1/trek){:target="_blank"}  -->
 
 <a href="{{ site.url }}/projects1/copypasta" >copypasta</a>
