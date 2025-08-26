@@ -3,7 +3,7 @@ layout: projects
 title: not-math
 
 ---
-Outside math, I am mostly into lifting weights, sports, biking and chess. 
+Outside math, I am mostly into lifting weights, biking and chess. 
 
 
 <!-- I don't have much going on that's not math. Hopefully I find something interesting to fill this page. -->
@@ -21,7 +21,7 @@ Outside math, I am mostly into lifting weights, sports, biking and chess.
   <hr>
 {% endfor %} -->
 
-<h><a href="{{ site.url }}/projects1/trek" >Sandakphu Phalut</a> </h>
+<h><a href="{{ site.url }}/projects1/trek" >Sandakphu Phalut</a> </h  >
 <!-- [Trek]({{ site.url }}/projects1/trek){:target="_blank"}  -->
 
 <a href="{{ site.url }}/projects1/copypasta" >copypasta</a>

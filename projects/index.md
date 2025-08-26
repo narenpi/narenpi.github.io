@@ -55,7 +55,7 @@ Poincare Duality for Manifolds
 
 <!-- <br>
 <a href="{{ site.url}}/projects/KTCC"> K-Theory Reading</a> -->
-<details >
+<!-- <details >
 <summary>Writing</summary>
 <br>
 <a href="{{site.url}}/765notes.pdf"> Notes on algebra, Taught by Dr. Uwe Nagel</a>
@@ -65,7 +65,7 @@ Poincare Duality for Manifolds
 <a href="{{site.url}}/projects/caic"> Attractors in Chaos</a>
 <br>
 A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/serrespecseq.pdf" >Note</a>]
-</details>
+</details> -->
 
 <!-- <br>
 <p><b> Writing </b></p>
@@ -81,6 +81,9 @@ A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/se
 
 <p><b> Talks </b></p>
 <ol reversed>
+<li><i>Periodicities in $C_2$-equivariant homotopy theory</i>, University of Kentucky April '25</li>
+<li><i>Localization at Real Johnson-Wilson theories</i>, University of Kentucky December '24</li>
+
 <li><i> <a href="{{site.url}}/talk2.pdf">Introduction to Spectral Sequences</a></i>, Indian Institute of Technology, Madras, May '23  </li>
 <li><i>Introduction to Stable Homotopy</i>, Indian Institute of Technology, Madras, Online, Nov '22</li>
 
