@@ -10,17 +10,16 @@ layout: page
 <p>Hello there! I am Narendran. I am a fourth year PhD student at the University of Kentucky and I am advised by Bert Guillou. My research interests are in Equivariant and Chromatic homotopy theory. I am also interested in algebraic geometry and how it interacts with homotopy theory.
 <span style="display:block; float: right; margin-left: 1em; margin-bottom: 1em; width: 200px; height: 200px; border: 2px solid #0000ff;">
 <figure>
-  <img src="../thisisme.jpg" >
+  <img src="../picofme.jpg" >
   <figcaption>This is me</figcaption>
 </figure> 
 </span>
     
 <br>
-<br>
 
-<img align="left" width="200" src="../thisisme.jpg" />
+<!-- <img align="left" width="200" src="../picofme.jpg" />
 
-Hello there! I am Narendran. I am a fourth year PhD student at the University of Kentucky and I am advised by Bert Guillou. My research interests are centered around Chromatic homotopy theory. I am also interested in algebraic geometry and how it interacts with homotopy theory.
+Hello there! I am Narendran. I am a fourth year PhD student at the University of Kentucky and I am advised by Bert Guillou. My research interests are centered around Chromatic homotopy theory.    I am also interested in algebraic geometry and how it interacts with homotopy theory. -->
 
 <br>
 Currently I'm looking at producing a height 2 self-map of lowers periodicity on Real motivic complexes. 
