@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  Steenrod Algebra
 date:   2022-11-01
@@ -18,7 +18,7 @@ Also look at the Bockstein map $$\tilde{\beta}: H^n(X;\mathbb{Z}_m)\to H^{n+1}(X
 
 ![]({{site.url}}/1img.png){: width="500" }
 <!-- <img align="left" width="500" src="{{site.url}}/1img.png"> -->
-
+<!-- 
 The Bockstein homomorphisms also satisfy the derivation property: \\[ \beta(a\smile b)=\beta(a)\smile b+(-1)^{\vert a\vert}a\smile \beta(b)\\]
 
 Note that $\beta ^2=0$, so we have a chain complex with groups $$H^n(X;\mathbb{Z}_m)$$ and $\beta$ as boundary homomorphisms. The associated Bockstein cohomology groups are \\[\frac{ker(\beta)}{Im(\beta)}=BH^n(X;\mathbb{Z}_m)\\]
@@ -39,16 +39,16 @@ A cohomology operation is a transformation $\Theta :H^m(X;G)\to H^n(X;H)$ define
  H^m(Y;G)@>{\Theta_Y}>>H^n(Y;H)\\
 @VV{f^*}V @VVV \\
 H^m(X;G) @>{\Theta_X}>> H^n(X;H)
-\end{CD}$$
+\end{CD}$$ -->
 
-
+<!-- 
 <em> For fixed $m,n,G, H$ there is a bijection between the set of all cohomlogy operations $\Theta: H^m(X;G)\to H^n(X;H)$ and $H^n(K(G,m);H)$, ,defined by $\Theta\mapsto \Theta(\iota)$ where $\iota \in H^m(K(G,m);G)$ is a fundamental class.</em>
 
-_will be continued_
+_will be continued_ -->
 
 
 
-
+<!-- 
 
 
 
@@ -69,4 +69,4 @@ _will be continued_
       }
     }
   });
-</script>
+</script> --> -->
