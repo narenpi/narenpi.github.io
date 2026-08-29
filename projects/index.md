@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: projects
 title: math
 permalink: /math/
----
+--- -->
 
 <!-- {% for project in site.projects %} -->
 <!--   
@@ -76,7 +76,7 @@ A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/se
 <!-- List of theorems from Quillen's <em>Homotopical algebra</em> [<a href="{{site.url}}/modelcat.pdf" >Note</a>] -->
 
 <!-- A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/serrespecseq.pdf" >Note</a>] --> 
-
+<!-- 
 <br>
 
 <p><b> Talks </b></p>
@@ -87,7 +87,7 @@ A short note on examples on Serre's spectral sequences [<a href="{{site.url}}/se
 <li><i> <a href="{{site.url}}/talk2.pdf">Introduction to Spectral Sequences</a></i>, Indian Institute of Technology, Madras, May '23  </li>
 <li><i>Introduction to Stable Homotopy</i>, Indian Institute of Technology, Madras, Online, Nov '22</li>
 
-</ol>
+</ol> -->
 <!-- <table style="font-size: 0.8em; color: gray;"><tr><td ><img src="http://math.jhu.edu/~savitt/GTM/maclane.jpg" width=500 height=140 alt=""></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Saunders Mac Lane's <b><i>Categories for the Working Mathematician</i></b>.</p><p>I provide an array of general ideas useful in a wide variety of fields.  Starting from foundations, I illuminate the concepts of category, functor, natural transformation, and duality.  I then turn to adjoint functors, which provide a description of universal constructions, an analysis of the representation of functors by sets of morphisms, and a means of manipulating direct and inverse limits. </p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table> -->
 
 

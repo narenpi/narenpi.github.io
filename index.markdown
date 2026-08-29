@@ -8,20 +8,21 @@ layout: page
 
 <!-- <img style="float: right; padding: 10px" width="300" src="../myself.JPG"> -->
 <p>Hello there! I am Narendran. I am a fourth year PhD student at the University of Kentucky and I am advised by Bert Guillou. My research interests are in Equivariant and Chromatic homotopy theory. I am also interested in algebraic geometry and how it interacts with homotopy theory.
-<!-- <span style="display:block; float: right; margin-left: 1em; margin-bottom: 1em; width: 200px; height: 200px; border: 2px solid #0000ff;">
+<span style="display:block; float: right; margin-left: 1em; margin-bottom: 1em; width: 200px; height: 200px; border: 2px solid #0000ff;">
 <figure>
   <img src="../thisisme.jpg" >
   <figcaption>This is me</figcaption>
 </figure> 
-</span> -->
+</span>
     
 <br>
 <br>
 
-<img align="left" width="200" src="https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg" />
-ello there! I am Narendran. I am a fourth year PhD student at the University of Kentucky and I am advised by Bert Guillou. My research interests are in Equivariant and Chromatic homotopy theory. I am also interested in algebraic geometry and how it interacts with homotopy theory.
+<img align="left" width="200" src="../thisisme.jpg" />
 
+Hello there! I am Narendran. I am a fourth year PhD student at the University of Kentucky and I am advised by Bert Guillou. My research interests are centered around Chromatic homotopy theory. I am also interested in algebraic geometry and how it interacts with homotopy theory.
 
+<br>
 Currently I'm looking at producing a height 2 self-map of lowers periodicity on Real motivic complexes. 
 <script type="text/javascript"
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
