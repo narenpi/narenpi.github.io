@@ -21,8 +21,8 @@ Here is my <a href="../cv.pdf">cv</a>.
 <h4>Writing </h4>
 
 <div class ="pub-list">
-<details><summary>About $\widetilde{B}^{\mathbb{R}}(2)$</summary>The module structure of $\mathcal{A}^{\mathbb{R}}(2)$ and $\widetilde{B}^{\mathbb{R}}(2)$: <a href="../writing.pdf">writing</a></details>
-<details><summary>motivic 101</summary> Basic notions of schemes and gives a minimal working knowledge of motivic
+<details><summary>About $\widetilde{B}^{\mathbb{R}}(2)$</summary>Notes from current work involing the module structure of $\mathcal{A}^{\mathbb{R}}(2)$ and $\widetilde{B}^{\mathbb{R}}(2)$: <a href="../writing.pdf">writing</a></details>
+<details><summary>motivic 101</summary> Note to myself on some basic notions of schemes and gives a minimal working knowledge of motivic
 homotopy. <a href="../mot.pdf">mot</a></details>
 <details><summary>Milnor's conjecture</summary><a href="{{ site.url }}/projects/bmasthes" >Exposition on Milnor's conjecture</a>, as part of Master's thesis </details>
 <details><summary>Attractors in Chaos</summary><a href="{{site.url}}/projects/caic"> Attractors in Chaos</a>Bachelor's thesis</a></details>
