@@ -3,7 +3,7 @@ layout: projects
 title: not-math
 
 ---
-Outside math, I am mostly into lifting weights, biking and chess. 
+Outside math, I am mostly into lifting weights and chess. 
 
 
 <!-- I don't have much going on that's not math. Hopefully I find something interesting to fill this page. -->

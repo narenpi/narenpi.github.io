@@ -7,22 +7,47 @@ layout: page
 
 
 <!-- <img style="float: right; padding: 10px" width="300" src="../myself.JPG"> -->
-<p>Hello there! I am Narendran. I am a fourth year PhD student at the University of Kentucky and I am advised by Bert Guillou. My research interests are in Equivariant and Chromatic homotopy theory. I am also interested in algebraic geometry and how it interacts with homotopy theory.
-<span style="display:block; float: right; margin-left: 1em; margin-bottom: 1em; width: 200px; height: 200px; border: 2px solid #0000ff;">
-<figure>
-  <img src="../picofme.jpg" >
-  <figcaption>This is me</figcaption>
-</figure> 
-</span>
-    
+<p>
+  <img style="float:right;" src= "..//pic.jpg" width="30%" height="30%" />
+</p>
+
+<p>Hello there! I am Narendran. I am a fourth year PhD student at the University of Kentucky and I am advised by Bert Guillou. 
 <br>
-
-<!-- <img align="left" width="200" src="../picofme.jpg" />
-
-Hello there! I am Narendran. I am a fourth year PhD student at the University of Kentucky and I am advised by Bert Guillou. My research interests are centered around Chromatic homotopy theory.    I am also interested in algebraic geometry and how it interacts with homotopy theory. -->
-
 <br>
-Currently I'm looking at producing a height 2 self-map of lowers periodicity on Real motivic complexes. 
+My research interests are centered around chromatic homotopy. Currently, I am thinking about self-maps on Real motivic complexes and their Steenrod module structure. I am also interested in $\mathcal{K}_ 4$- equivariant stable homotopy.</p>
+<br>
+Here is my <a href="../cv.pdf">cv</a>.
+<br>
+<h4>Writing </h4>
+
+<div class ="pub-list">
+<details><summary>About $\widetilde{B}^{\mathbb{R}}(2)$</summary>The module structure of $\mathcal{A}^{\mathbb{R}}(2)$ and $\widetilde{B}^{\mathbb{R}}(2)$: <a href="../writing.pdf">writing</a></details>
+<details><summary>motivic 101</summary> Basic notions of schemes and gives a minimal working knowledge of motivic
+homotopy. <a href="../mot.pdf">mot</a></details>
+<details><summary>Milnor's conjecture</summary><a href="{{ site.url }}/projects/bmasthes" >Exposition on Milnor's conjecture</a>, as part of Master's thesis </details>
+<details><summary>Attractors in Chaos</summary><a href="{{site.url}}/projects/caic"> Attractors in Chaos</a>Bachelor's thesis</a></details>
+
+</div>
+
+<!-- <br>
+<br>
+<a href="{{site.url}}/765notes.pdf"> Notes on algebra, Taught by Dr. Uwe Nagel</a>
+<br>
+<a href="{{ site.url }}/projects/bmasthes" > Exposition on Milnor's conjecture, as part of Master's thesis</a>  
+  <br>
+<a href="{{site.url}}/projects/caic"> Attractors in Chaos</a>
+<br> -->
+<!-- <details >
+<summary>Writing</summary>
+<br>
+<a href="{{site.url}}/765notes.pdf"> Notes on algebra, Taught by Dr. Uwe Nagel</a>
+<br>
+<a href="{{ site.url }}/projects/bmasthes" > Exposition on Milnor's conjecture, as part of Master's thesis</a>  
+  <br>
+<a href="{{site.url}}/projects/caic"> Attractors in Chaos</a>
+<br>
+</details> -->
+
 <script type="text/javascript"
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
 </script>
@@ -41,20 +66,3 @@ Currently I'm looking at producing a height 2 self-map of lowers periodicity on 
     }
   });
 </script>
-
-<!-- <Previously I was at Indian Statistical Institute, for my Bachelor's and Master's degree in Mathematics. </p> -->
-</p><br>
-
-
-
-
-
-
- 
-
-
-
-<!-- <figure><p align="center">
-<img src="../uc.gif" width ="400"></p></figure> -->
-
-
